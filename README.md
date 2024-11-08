@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHEN1594
 - 🏫 Year 3 Student at Nanyang Technological University (NTU)
-- 🤖 Passionate about algorithms, including machine learning (ML), large language models (LLMs), data mining, and risk control
+- 🤖 Passionate about LLM and Mutimodle
 - 💻 Enthusiastic Hackathon participant and Kaggle competitor
 
 <!---
