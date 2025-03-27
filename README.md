@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CHEN1594
+- 👋 Hi, I’m Chen Tianhe
 - 🏫 Year 3 Student at Nanyang Technological University (NTU)
-- 🤖 Passionate about LLM & Mutimodle; Efficient AI
+- 🤖 Passionate about Efficient AI
 
 <!---
 CHEN1594/CHEN1594 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
